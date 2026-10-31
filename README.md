@@ -1,71 +1,86 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+# Developer Portfolio Template 🚀
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## Preview
+## What is this?
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+This simple portfolio template is designed to showcase your past projects, career history, skill sets, and more.
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
 
-## Status
+**This template is free to use, and no attribution is required.** You can fork or download this repository to customize it for your own use. Please don't forget to leave a ⭐ if you like this portfolio!
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
+![screenshot](./src/assets//images/screenshot.png)
 
-## Download and Installation
+## Features
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
-* Install via npm: `npm i startbootstrap-resume`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
+✅ Open source (free to use, no attribution required)  
+✅ Responsive design & mobile-friendly  
+✅ Supports both dark and light modes  
+✅ Highly customizable multi-component layout  
+✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
 
-## Usage
+## Quick Setup
 
-### Basic Usage
+1. Ensure you have [Node.js](https://nodejs.org/) installed. Check your installation by running:
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+    ```bash
+    node -v
+    ```
 
-### Advanced Usage
+2. In the project directory, install dependencies:
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+    ```bash
+    npm install
+    ```
 
-#### Gulp Tasks
+3. Start the development server:
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp sass` compiles SCSS files into CSS
-- `gulp minify-css` minifies the compiled CSS file
-- `gulp minify-js` minifies the themes JS file
-- `gulp copy` copies dependencies from node_modules to the vendor directory
+    ```bash
+    npm start
+    ```
 
-## Bugs and Issues
+4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
+5. Customize the template by navigating to the `/src/components` directory. Modify texts, pictures, and other information as needed.
 
-## Custom Builds
+The page will reload if you make edits, and you will see any lint errors in the console.
 
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+If you are interested in creating a mockup image like the ones from the personal projects section, I recommend [Genmoo](https://gemoo.com/tools/browser-mockup-generator/). This website lets you generate sleek looking browser mockups for free.
 
-## About
+## Deployment
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Heroku](https://www.heroku.com/)) for deployment. One of the easiest ways to host this portfolio is using GitHub Pages. Follow the instructions below for a production deploy.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+1. **Set Up GitHub Repository**
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+    Create a new repository on GitHub for your portfolio app.
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+2. **Configure `package.json`**
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+    Edit the following properties in your `package.json` file:
 
-## Copyright and License
+    ```json
+    {
+        "homepage": "https://yourusername.github.io/your-repo-name",
+        "scripts": {
+            "predeploy": "npm run build",
+            "deploy": "gh-pages -d build",
+            ...
+        }
+    }
+    ```
 
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+    Replace `yourusername` with your GitHub username and `your-repo-name` with the name of your GitHub repository.
+
+3. **Deploy to GitHub Pages**
+
+    Run the following command to deploy your app:
+
+    ```bash
+    npm run deploy
+    ```
+
+4. **Access Your Deployed App**
+
+    After successfully deploying, you can access your app at `https://yourusername.github.io/your-repo-name`.
