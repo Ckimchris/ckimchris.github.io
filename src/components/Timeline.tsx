@@ -23,6 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Holos</h3>
             <h4 className="vertical-timeline-element-subtitle">Senior Unity Engineer</h4>
             <p>
+              Utilized Unity and Swift to deliver Holos: Learn in 3D to the Apple Play Store for the Apple Vision Pro
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -34,6 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Tripp.Inc</h3>
             <h4 className="vertical-timeline-element-subtitle">Unity Engineer</h4>
             <p>
+              Utilized Unity, C#, and Simplygon to aid in the optimization efforts and delivery of Tripp to the Apple Play Store
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -45,6 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Verses.IO</h3>
             <h4 className="vertical-timeline-element-subtitle">Unity Developer</h4>
             <p>
+              Utilized Unity and MRTK to deliver a navigational AR simulation for the Hololens
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -56,6 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Inhance Digital</h3>
             <h4 className="vertical-timeline-element-subtitle">Unity / PlayCanvas Developer</h4>
             <p>
+              Set up virtual showfloor walkthroughs utilizing Unity and Playcanvas
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -67,6 +71,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">AppliedVR</h3>
             <h4 className="vertical-timeline-element-subtitle">Unity Developer</h4>
             <p>
+              Delivered a number of experiences and games for the RelieVRx platform
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

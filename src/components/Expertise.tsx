@@ -37,7 +37,10 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faUnity} size="3x"/>
                     <h3>Unity Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
+                    <p>
+                        I have built a diverse array of applications, simulations, and games from scratch utilizing the Unity Engine framework. 
+                        I have a strong proficiency in Unity overall, including C# scripting and implementation of shaders, sprites, models, and audio assets.
+                    </p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -49,7 +52,9 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faGamepad} size="3x"/>
                     <h3>Unreal Development</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <p>
+                        Interest in the world of game development of a whole by keeping interest in Unreal Development. I have experience with blueprints and C++ scripting 
+                    </p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -61,7 +66,9 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
                     <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <p>
+                        Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support a successful launch.
+                    </p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
