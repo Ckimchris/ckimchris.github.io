@@ -1,18 +1,30 @@
 {
   "files": {
     "main.css": "/ckimchris.github.io/static/css/main.81a486dd.css",
-    "main.js": "/ckimchris.github.io/static/js/main.a31b8a7a.js",
+    "main.js": "/ckimchris.github.io/static/js/main.37a4891c.js",
     "static/js/453.b05d8aa5.chunk.js": "/ckimchris.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/ButterflyGaze.gif": "/ckimchris.github.io/static/media/ButterflyGaze.ec5af11919ed27b04bf8.gif",
+    "static/media/TreeOfLife.gif": "/ckimchris.github.io/static/media/TreeOfLife.b37ee9097d2013e74d1e.gif",
+    "static/media/P&P.png": "/ckimchris.github.io/static/media/P&P.f6f0b2f05eea9c84ac63.png",
+    "static/media/Magician.png": "/ckimchris.github.io/static/media/Magician.292c70540cd67f109070.png",
+    "static/media/Space.png": "/ckimchris.github.io/static/media/Space.9fcbcd15f889141f254f.png",
+    "static/media/Haniwa.png": "/ckimchris.github.io/static/media/Haniwa.d9c7bea57486ac2eb6f2.png",
     "static/media/bg-light.png": "/ckimchris.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/yukarisnow.png": "/ckimchris.github.io/static/media/yukarisnow.cdd5b20785c1153e736e.png",
+    "static/media/Demon.png": "/ckimchris.github.io/static/media/Demon.1561e46d4966852f395e.png",
     "static/media/Asteroid.png": "/ckimchris.github.io/static/media/Asteroid.46259c2772a0cfaa102c.png",
     "static/media/bg-dark.png": "/ckimchris.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Chirei.png": "/ckimchris.github.io/static/media/Chirei.6d2934b6b7225c1891c6.png",
+    "static/media/rend.png": "/ckimchris.github.io/static/media/rend.ec81dc1a9444a7e11434.png",
+    "static/media/Holos.webp": "/ckimchris.github.io/static/media/Holos.9d9da8eef49bd2934e60.webp",
+    "static/media/Tripp.webp": "/ckimchris.github.io/static/media/Tripp.f741d796018e3b439bdd.webp",
     "index.html": "/ckimchris.github.io/index.html",
     "main.81a486dd.css.map": "/ckimchris.github.io/static/css/main.81a486dd.css.map",
-    "main.a31b8a7a.js.map": "/ckimchris.github.io/static/js/main.a31b8a7a.js.map",
+    "main.37a4891c.js.map": "/ckimchris.github.io/static/js/main.37a4891c.js.map",
     "453.b05d8aa5.chunk.js.map": "/ckimchris.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81a486dd.css",
-    "static/js/main.a31b8a7a.js"
+    "static/js/main.37a4891c.js"
   ]
 }
